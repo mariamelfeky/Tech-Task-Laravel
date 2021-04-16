@@ -9,12 +9,6 @@
                             </a>
                         </div>
                     </div>
-                    <div class="offset-4 col-lg-3 col-md-4">
-                        <div class="b-search">
-                            <input type="text" placeholder="Search">
-                            <button><i class="fa fa-search"></i></button>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -65,7 +59,7 @@
                                 <div class="tn-img">
                                     <img src="img/news-825x525.jpg" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="">Health officials say vaccines are crucial to ending the pandemic</a>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +67,7 @@
                                 <div class="tn-img">
                                     <img src="img/news-450x350-2.jpg" />
                                     <div class="tn-title">
-                                        <a  href="">Integer hendrerit elit eget purus sodales maximus</a>
+                                        <a  href="">Coinbase shares whipsawed Thursday</a>
                                     </div>
                                 </div>
                             </div>
@@ -85,7 +79,7 @@
                                 <div class="tn-img">
                                     <img src="img/news-350x223-3.jpg" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Coinbase stock closes down day</a>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +87,7 @@
                                 <div class="tn-img">
                                     <img src="img/news-350x223-4.jpg" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">ex-engineer settle lawsuit</a>
                                     </div>
                                 </div>
                             </div>

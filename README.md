@@ -13,8 +13,7 @@ PHP , Laravel , Bootstrap
 ## Description
 
 <p>
-A news platform that is based on news agencies, It calls their daily news.
-I used json files as endpoint to call it and read data.
+Our dailynews website graps content from multiple agencies e.g. Reuters, CNBC, CNN,...etc that provide their latest news as json response with the ability to sort these news by their rate or by datetime
 </p>
 
 ## Clone or download
@@ -22,6 +21,10 @@ I used json files as endpoint to call it and read data.
 ```terminal
 $ git clone https://github.com/mariamelfeky/Tech-Task-Laravel.git
 ```
+
+## Website Demo
+
+https://drive.google.com/file/d/1rETl7D7bgUUzAjR-zMk5aJ-nV6R89-4y/view?usp=sharing
 
 ## Website Screenshots
 
