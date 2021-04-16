@@ -1,0 +1,25 @@
+{
+    "latestnews": [
+      {
+        "title": "Goldman says to buy these 8 stocks ahead of a semiconductor boom",
+        "Content": "Goldman Sachs has named a number of stocks set to benefit as the world’s biggest chipmakers spend billions of dollars trying to address the global semiconductor shortage.",
+        "rating": "5/10",
+        "datetime": "Mon, 14 Dec 2020 13:01:59 +0000",
+        "image": "https://image.cnbcfm.com/api/v1/image/105493405-1538997645112gettyimages-95939512.jpeg?v=1548425929&w=740&h=416"
+      },
+      {
+        "title": "Climate scientists swap fieldwork for finance",
+        "Content": "Environmental scientist Laura Garcia Velez cut her teeth on projects to help Ethiopian farmers insure crops for drought and connect remote Colombian communities.",
+        "rating": "9/10",
+        "datetime": "Mon, 14 Dec 2020 00:02:59 +0000",
+        "image": "https://s.yimg.com/ny/api/res/1.2/Z8TKRzZPgELLo5QFcWgwHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY3ODtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Fj3JpXqTSqNpHi.dIi2glQ--~B/aD01NjU7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/226aa3cd932b448023c1f402f77dedad"
+      },
+      {
+        "title": "Apple won’t make an iPhone Mini next year, says top analyst",
+        "Content": "Apple’s 2022 iPhones could come in four different models with significantly improved cameras, TFI analyst Ming-Chi Kuo said in a Wednesday note to investors.",
+        "rating": "2/10",
+        "datetime": "Mon, 14 Dec 2020 0:00:00 +0000",
+        "image": "https://image.cnbcfm.com/api/v1/image/106784504-1604685790702iphone-12-max-mini-3-png?v=1604926726&w=740&h=416"
+      }
+    ]
+  }

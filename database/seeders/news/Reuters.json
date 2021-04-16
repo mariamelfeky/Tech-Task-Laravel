@@ -1,0 +1,25 @@
+{
+  "latestnews": [
+    {
+      "title": "U.S. parents begin to ask: Should my child get a COVID-19 shot?",
+      "Content": "Health officials say vaccines are crucial to ending the pandemic. But many are concerned vaccine hesitancy in some adults will be even more pronounced to their children.",
+      "rating": "5/10",
+      "datetime": "Mon, 14 Dec 2020 2:01:59 +0000",
+      "image" :"https://s.yimg.com/ny/api/res/1.2/osr8xtiWvqpfNEnzpJepDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ2OS43MDYyNTtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/1Xe9UqBQ_0N1eQMwK_..cA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/207cde75748675ed7459c053dd9e5216"
+    },
+    {
+      "title": "Coinbase stock closes down day after landmark Nasdaq debut",
+      "Content": "Coinbase shares whipsawed Thursday, a day after the cryptocurrency exchange went public in a blockbuster direct listing.",
+      "rating": "9/10",
+      "datetime": "Mon, 14 Dec 2020 14:02:59 +0000",
+      "image": "https://image.cnbcfm.com/api/v1/image/106868254-1618421405285-106868254-1618417666688-gettyimages-1232307013-COINBASE_IPO.jpg?v=1618421432&w=740&h=416"
+    },
+    {
+      "title": "Tesla, ex-engineer settle lawsuit over Autopilot source code",
+      "Content": "Tesla's Autopilot is a driver assistance system that handles some driving tasks and allows drivers to take their hands off the steering wheel.",
+      "rating": "2/10",
+      "datetime": "Mon, 14 Dec 2020 6:04:59 +0000",
+      "image": "https://s.yimg.com/ny/api/res/1.2/QhUCJZfDwvBI.RUdrq44nQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzMDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/.ry3KgdJubJpgjenndtr.g--~B/aD01MjU7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/b6c8362c93535ccb19b6f291332063d8"
+    }
+  ]
+}
